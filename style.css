@@ -35,3 +35,9 @@ body {
   justify-content: center;
   color: white;
 }
+
+.left-slide h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.625rem;
+  margin-top: -1.875rem;
+}
